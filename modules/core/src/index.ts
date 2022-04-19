@@ -87,6 +87,7 @@ export {default as FlyToInterpolator} from './transitions/fly-to-interpolator';
 
 // Layer utilities
 export {default as log} from './utils/log';
+export {default as assert} from './utils/assert';
 export {createIterable} from './utils/iterable-utils';
 export {fp64LowPart} from './utils/math-utils';
 export {default as Tesselator} from './utils/tesselator'; // Export? move to luma.gl or math.gl?
